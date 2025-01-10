@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/jwu773/exams
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/LearningInfiniTensor/learning-cxx.git
